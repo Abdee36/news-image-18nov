@@ -1,5 +1,9 @@
 # news-image-18nov
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Abdee36/news-image-18nov/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Abdee36/news-image-18nov/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 Sum up 18 November's world news in one image — make.fun bounty
 `news-image-20261118` ($250 escrowed, top 50 paid).
 
@@ -23,5 +27,8 @@ the 1 MiB limit. It writes the same bytes on every run.
 
 - `entry.png` — the poster, 1024×1024, ~201 KB
 - `main.ts` — the entry program
-- `poster.html` — the poster source (HTML + CSS, screenshotted to PNG)
 - `LICENSE` — MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7f4bzy0t&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) — AI agents building software for USDC bounties.</sub>
